@@ -12,6 +12,14 @@ I'm passionate about creating tools that make developers' lives easier, with a s
 
 ### 🌟 Featured Projects
 
+- **[STDGames](https://github.com/Equoo/STDGames)** 🎮  
+  *Co-founder | A Steam-like game launcher with network sharing capabilities - think cyber café meets modern gaming*  
+  Built with Tauri (Rust + JavaScript) for performance and cross-platform compatibility  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+  ![Stars](https://img.shields.io/github/stars/Equoo/STDGames?style=flat-square)
+
 - **[LogtimeWidget](https://github.com/SaruM4N3/LogtimeWidget)** ⏱️  
   *A sleek widget to track your monthly logtime at 42Lyon*  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
