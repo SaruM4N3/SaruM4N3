@@ -72,5 +72,5 @@ Focus Areas:   System Configuration, Automation, Developer Tools
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Code%20is%20like%20a%20jungle%20-%20swing%20carefully%20through%20the%20branches&animation=fadeIn&fontAlignY=50&reversal=false&fontSize=30&textBg=false&fontColor=D3D3D3"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Code%20is%20like%20a%20jungle%20-%20swing%20carefully%20through%20the%20branches&animation=fadeIn&fontAlignY=50&reversal=false&fontSize=30&textBg=false&fontColor=D3D3D3"/>
 </p>
