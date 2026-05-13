@@ -25,7 +25,7 @@ I'm passionate about creating tools that make developers' lives easier, with a s
   *A sleek widget to track your monthly logtime at 42Lyon*  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![Stars](https://img.shields.io/github/stars/SaruM4N3/LogtimeWidget?style=flat-square)
-
+  
 - **[42_bspwm_dotfile](https://github.com/SaruM4N3/42_bspwm_dotfile)** 🖥️  
   *A different way to see the world in 42 cluster - because everyone hates GNOME! (A fakeroot environment dotfile installer)*  
   ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -35,7 +35,8 @@ I'm passionate about creating tools that make developers' lives easier, with a s
   *Launch your games on linux like a monkey*  
   ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
   ![Stars](https://img.shields.io/github/stars/SaruM4N3/MonkeyLauncher?style=flat-square)
-
+  ![Downloads](https://img.shields.io/github/downloads/SaruM4N3/MonkeyLauncher/total?style=flat-square)
+  
 ## 💻 Tech Stack & Tools
 
 ```text
