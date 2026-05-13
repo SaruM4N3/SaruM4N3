@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20there,%20I'm%20SaruM4N3%20(zsonie)&animation=fadeIn&fontAlignY=30&reversal=false&desc=Just%20a%20monkey%20swinging%20through%20code&fontSize=45&textBg=false&descAlignY=55&descAlign=30&fontAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20there,%20I'm%20SaruM4N3%20&animation=fadeIn&fontAlignY=30&reversal=false&desc=Just%20a%20monkey%20swinging%20through%20code&fontSize=45&textBg=false&descAlignY=55&descAlign=30&fontAlign=35"/>
 </p>
 <p>
   <a href="https://github.com/SaruM4N3"><img src="https://img.shields.io/badge/📍-Lyon,_France-blue?style=flat-square" alt="Location"/></a>
