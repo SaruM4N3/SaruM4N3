@@ -1,9 +1,10 @@
-[![Lyon](https://img.shields.io/badge/📍-Lyon,_France-blue?style=flat-square)](https://github.com/SaruM4N3)
-[![Profile Views](https://komarev.com/ghpvc/?username=SaruM4N3&color=brightgreen&style=flat-square)](https://github.com/SaruM4N3)
-[![Followers](https://img.shields.io/github/followers/SaruM4N3?style=flat-square&logo=github)](https://github.com/SaruM4N3?tab=followers)
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20there,%20I'm%20SaruM4N3%20(zsonie)&animation=fadeIn&fontAlignY=30&reversal=false&desc=Just%20a%20monkey%20swinging%20through%20code&fontSize=50&textBg=false&descAlignY=55&descAlign=30&fontAlign=50"/>
+</p>
+<p>
+  <a href="https://github.com/SaruM4N3"><img src="https://img.shields.io/badge/📍-Lyon,_France-blue?style=flat-square" alt="Location"/></a>
+  <a href="https://github.com/SaruM4N3"><img src="https://komarev.com/ghpvc/?username=SaruM4N3&color=brightgreen&style=flat-square" alt="Profile Views"/></a>
+  <a href="https://github.com/SaruM4N3?tab=followers"><img src="https://img.shields.io/github/followers/SaruM4N3?style=flat-square&logo=github" alt="Followers"/></a>
 </p>
 
 ## 🚀 What I'm Building
