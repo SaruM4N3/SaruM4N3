@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20there,%20I%27m%20SaruM4N3%20(zsonie)&animation=fadeIn&fontAlignY=50&reversal=false&desc=Just%20a%20monkey%20swinging%20through%20code&fontSize=50&textBg=false&descAlignY=80&fontColor=fff&stroke=000000&strokeWidth=0.2"/>
-</p>
-
 [![Lyon](https://img.shields.io/badge/📍-Lyon,_France-blue?style=flat-square)](https://github.com/SaruM4N3)
 [![Profile Views](https://komarev.com/ghpvc/?username=SaruM4N3&color=brightgreen&style=flat-square)](https://github.com/SaruM4N3)
 [![Followers](https://img.shields.io/github/followers/SaruM4N3?style=flat-square&logo=github)](https://github.com/SaruM4N3?tab=followers)
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20there,%20I'm%20SaruM4N3%20(zsonie)&animation=fadeIn&fontAlignY=30&reversal=false&desc=Just%20a%20monkey%20swinging%20through%20code&fontSize=50&textBg=false&descAlignY=55&descAlign=30&fontAlign=50"/>
+</p>
 
 ## 🚀 What I'm Building
 
