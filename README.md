@@ -7,8 +7,6 @@
   <a href="https://github.com/SaruM4N3?tab=followers"><img src="https://img.shields.io/github/followers/SaruM4N3?style=flat-square&logo=github" alt="Followers"/></a>
 </p>
 
-## What I'm Building
-
 ### Featured Projects
 
 - **[STDGames](https://github.com/Equoo/STDGames)** 🎮  
