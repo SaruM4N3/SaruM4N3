@@ -7,11 +7,9 @@
   <a href="https://github.com/SaruM4N3?tab=followers"><img src="https://img.shields.io/github/followers/SaruM4N3?style=flat-square&logo=github" alt="Followers"/></a>
 </p>
 
-## 🚀 What I'm Building
+## What I'm Building
 
-I'm passionate about creating tools that make developers' lives easier, with a special focus on 42 School ecosystem and workflow automation.
-
-### 🌟 Featured Projects
+### Featured Projects
 
 - **[STDGames](https://github.com/Equoo/STDGames)** 🎮  
   *Co-founder | A Steam-like game launcher with network sharing capabilities - think cyber café meets modern gaming*  
@@ -37,22 +35,21 @@ I'm passionate about creating tools that make developers' lives easier, with a s
   ![Stars](https://img.shields.io/github/stars/SaruM4N3/MonkeyLauncher?style=flat-square)
   ![Downloads](https://img.shields.io/github/downloads/SaruM4N3/MonkeyLauncher/total?style=flat-square)
   
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 ```text
 Languages:     C/C++, Shell/Bash, JavaScript
-Environment:   Linux (bspwm), 42 School Stack
-Focus Areas:   System Configuration, Automation, Developer Tools
+Environment:   Linux (bspwm), Arch (Hyprland)
 ```
 
-## 🎯 Current Focus
+## Current Focus
 
 - 🔧 Building productivity tools for developers
 - 🐧 Perfecting my Linux environment setup
 - 🎨 Exploring creative ways to optimize workflows
 - 📚 Learning and growing at 42
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SaruM4N3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -64,10 +61,9 @@ Focus Areas:   System Configuration, Automation, Developer Tools
   <img src="https://github-profile-trophy.vercel.app/?username=SaruM4N3&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - 💬 Open to collaboration on interesting projects
-- 🐛 Always happy to help debug issues
 - 🌱 Currently exploring new technologies and approaches
 - ⚡ Fun fact: I feel anxious being a student that could be replace by ai before having my first job offer 
 
